@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm wiksien</h1>
-<h3 align="center">A Passionate front-end developer that learns something everyday.</h3>
+<h3 align="center">A Passionate front-end developer that learns something everyday</h3>
 
 <br>
 
