@@ -3,7 +3,7 @@
 
 <br>
 
-<img align="right" alt="Cat typing on a computer." src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" height= "200px">
+<img align="right" alt="Cat typing on a computer." src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" height= "215px">
 
 - 🌱 I’m currently learning **React and mastering Javascript**
 
@@ -21,11 +21,7 @@
 
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiksien&show_icons=true&locale=en&layout=compact" alt="wiksien" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wiksien&show_icons=true&locale=en&theme=radical" alt="wiksien" /></p>
 
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wiksien&show_icons=true&locale=en" alt="wiksien" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiksien&" alt="wiksien" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiksien&theme=radical" alt="wiksien" /></p>
 
