@@ -3,8 +3,6 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wiksien&label=Profile%20views&color=0e75b6&style=flat" alt="wiksien" /> </p>
-
 <img align="right" alt="Cat typing on a computer." src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" height= "200px">
 
 - 🌱 I’m currently learning **React and mastering Javascript**
@@ -25,7 +23,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wiksien&show_icons=true&locale=en&layout=compact" alt="wiksien" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wiksien&show_icons=true&locale=en" alt="wiksien" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wiksien&show_icons=true&locale=en" alt="wiksien" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiksien&" alt="wiksien" /></p>
 
