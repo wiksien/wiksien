@@ -9,7 +9,7 @@
 
 - 💬 Ask me for **Cute cat pictures**
 
-- 📫 How to reach me **wiktorsienkiewicz12345@gmail.com**
+- 📫 Reach me at **wiktorsienkiewicz12345@gmail.com** or **@wiksien** on Twitter
 
 - 🤝 I’m looking to **get a job in the industry one day**
 
