@@ -17,7 +17,5 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wiksien&show_icons=true&locale=en&theme=radical" alt="wiksien" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wiksien&theme=radical" alt="wiksien" /></p>
 
