@@ -1,5 +1,20 @@
-<h1 align="center">Hello there, I'm wiksien</h1>
+# Hi, I am Wiktor
 
-<p>Contact: wiktorsienkiewicz12345@gmail.com</p>
+Software engineer working on AI agent evaluation and LLM integration.
+4+ years building production software.
 
-<img align="center" alt="Man typing on a computer." src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" height= "215px">
+- **Now:** building benchmark tasks and evaluating AI coding agents, finding where they fail and why
+- **Before:** led development of an LLM-powered platform at Localhost Software House; shipped internal tooling at Oliver Wyman
+
+## Projects
+- [bskykeywords.com](https://bskykeywords.com) - free Bluesky keyword analytics, 100+ monthly active users (Next.js, TypeScript)
+- [Travel Agent Job Board](https://travelagentjobs.wiksien.com) - full-stack job marketplace demo (Ruby on Rails, PostgreSQL)
+
+## Open source
+- **Gumroad** - fixed two production UI bugs, both merged and deployed:
+  1. Dark-mode rendering issue ([#516](https://github.com/antiwork/gumroad/pull/516))
+  2. Broken footers consolidated into one ([#573](https://github.com/antiwork/gumroad/pull/573))
+- **RedwoodJS** - contributor to [redwoodjs/graphql](https://github.com/redwoodjs/graphql)
+
+## Contact
+wiktorsienkiewicz12345@gmail.com · [LinkedIn](https://linkedin.com/in/wiksien) 
